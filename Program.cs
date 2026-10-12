@@ -14,26 +14,26 @@ class Program
 
         //sama dengan
         bool hasilsama = a == b;
-        Console.WriteLine($"apakah a sama dengan b? {hasilsama}");
+        Console.WriteLine($"apakah {a} sama dengan {b}? {hasilsama}");
 
         //tidak sama dengan
         bool hasiltidakSama = a != b;
-        Console.WriteLine($"apakah a tidak sama dengan b? {hasiltidakSama}");
+        Console.WriteLine($"apakah {a} tidak sama dengan {b}? {hasiltidakSama}");
 
         //lebih besar dari
         bool hasillebihBesar = a > b;
-        Console.WriteLine($"apakah a lebih besar dari b? {hasillebihBesar}");
+        Console.WriteLine($"apakah {a} lebih besar dari {b}? {hasillebihBesar}");
 
         //lebih kecil dari
         bool hasillebihKecil = a < b;
-        Console.WriteLine($"apakah a lebih kecil dari b? {hasillebihKecil}");
+        Console.WriteLine($"apakah {a} lebih kecil dari {b}? {hasillebihKecil}");
 
         //lebih besar sama dengan
         bool hasillebihBesarSamaDengan = a >= b;
-        Console.WriteLine($"apakah a lebih besar sama dengan b? {hasillebihBesarSamaDengan}");
+        Console.WriteLine($"apakah {a} lebih besar sama dengan {b}? {hasillebihBesarSamaDengan}");
 
         //lebih kecil sama dengan
         bool hasillebihKecilSamaDengan = a <= b;
-        Console.WriteLine($"apakah a lebih kecil sama dengan b? {hasillebihKecilSamaDengan}");
+        Console.WriteLine($"apakah {a} lebih kecil sama dengan {b}? {hasillebihKecilSamaDengan}");
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alpro5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b5b31a0c0e78bf0ead00f249273a227fcb75f3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+643812c6b21b721a752b6bc05b4ea96cfe69d481")]
 [assembly: System.Reflection.AssemblyProductAttribute("alpro5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alpro5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
