@@ -31,10 +31,11 @@ class latian
         Console.WriteLine("Masukkan jumlah gelas: ");
         int gelas = int.Parse(Console.ReadLine());
 
-        int totalBelanja = (menu*gelas);
+        int totalBelanja = menu*gelas;
         Console.WriteLine();
         Console.WriteLine("STRUKK");
         Console.WriteLine("Total belanja: " + totalBelanja);
+
         if (totalBelanja >= 40000)
         {
             totalBelanja = totalBelanja - (totalBelanja * 20 / 100);
