@@ -12,3 +12,4 @@ C:\Users\Davina\Documents\alpro5\obj\Debug\net10.0\refint\alpro5.dll
 C:\Users\Davina\Documents\alpro5\obj\Debug\net10.0\alpro5.pdb
 C:\Users\Davina\Documents\alpro5\obj\Debug\net10.0\alpro5.genruntimeconfig.cache
 C:\Users\Davina\Documents\alpro5\obj\Debug\net10.0\ref\alpro5.dll
+C:\Users\Davina\Documents\alpro5\obj\Debug\net10.0\alpro5.sourcelink.json
